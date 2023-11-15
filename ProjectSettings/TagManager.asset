@@ -4,8 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - SpawnPoint1
-  - SpawnPoint2
+  - puck
   layers:
   - Default
   - TransparentFX
